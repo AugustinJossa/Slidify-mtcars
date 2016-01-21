@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/144663/6c37fe238cc244f0a75dd3b4f5c4f5f0
+url: http://rpubs.com/Augustin_Josssa/144663
+when: 1453364802.00411
