@@ -25,7 +25,7 @@ The tab navigation bar enables you to :
 - Read the summary of the data table
 - Access to the data table
 
-Here is the link for our application : https://augustinjossa.shinyapps.io/Data-Product-mtcars/
+Here is the link for our application : https://augustinjossa.shinyapps.io/Data-Product-mtcars-V2/
 
 --- .class #id 
 
